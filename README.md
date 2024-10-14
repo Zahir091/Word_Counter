@@ -1,1 +1,2 @@
 # Word_Counter
+This is my Word counter project I made with Java. It uses TreeMaps to idenitfy similar expressions and counts how many times each expression occurs. This project can be used with any file.
