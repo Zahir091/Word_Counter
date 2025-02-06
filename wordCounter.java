@@ -33,7 +33,7 @@ public class wordCounter {
 		}
 	}
 
-	public static String chooseFile() {
+	public static String chooseFile() { //File Chooser function
 		int status; 
         JFileChooser chooser = new JFileChooser(); //I am creating a new JFileChooser to allow users to choose a file from file directory
         status = chooser.showOpenDialog(null); 
